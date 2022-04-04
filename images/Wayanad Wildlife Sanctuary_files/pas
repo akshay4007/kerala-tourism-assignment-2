@@ -1,0 +1,92 @@
+jsonp_callback_1({
+    "id": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_default_checkbox",
+    "redirectBaseID": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_redirect_base",
+    "redirectBase": "https://www.clicktripz.com/",
+    "userSearchHistory": [
+        {
+            "timestamp": 1649053858
+        }
+    ],
+    "isPseudoPopUnderRedirecting": false,
+    "isEdgeBroken": false,
+    "serverTimestamp": 1649054187,
+    "searchKey": "5ff1c7188c32894c8fb0a3abebdee9f3",
+    "recommendedDisplayMode": "tabbed",
+    "auctionType": 200,
+    "providers": [
+        {
+            "name": "Priceline",
+            "smallThumb": "https://images.clicktripz.com/4_16263982793112.png",
+            "mediumThumb": "https://images.clicktripz.com/4_16263983134335.png",
+            "smallAltThumb": "https://images.clicktripz.com/4_16263983004586.png",
+            "checked": false,
+            "hidden": false,
+            "id": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_1",
+            "redirectID": "7020770440",
+            "windowName": "ct_window_25642",
+            "campaignID": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_1_25642",
+            "campaign": "25642",
+            "campaignType": "1",
+            "ifb": false
+        },
+        {
+            "name": "Hotel Planner",
+            "smallThumb": "https://images.clicktripz.com/26963_16309842229757.png",
+            "mediumThumb": "https://images.clicktripz.com/26963_1630984224391.png",
+            "smallAltThumb": "https://images.clicktripz.com/26963_16309842231632.png",
+            "checked": false,
+            "hidden": false,
+            "id": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_2",
+            "redirectID": "2030538335",
+            "windowName": "ct_window_26963",
+            "campaignID": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_2_26963",
+            "campaign": "26963",
+            "campaignType": "1",
+            "ifb": false
+        },
+        {
+            "name": "FindHotel",
+            "smallThumb": "https://images.clicktripz.com/21331_15126655225352.png",
+            "mediumThumb": "https://images.clicktripz.com/21331_15126655239377.png",
+            "smallAltThumb": "https://images.clicktripz.com/426_15251298619720.png",
+            "checked": false,
+            "hidden": false,
+            "id": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_3",
+            "redirectID": "5000699200",
+            "windowName": "ct_window_21331",
+            "campaignID": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_3_21331",
+            "campaign": "21331",
+            "campaignType": "1",
+            "ifb": true
+        },
+        {
+            "name": "KAYAK",
+            "smallThumb": "https://images.clicktripz.com/1_15517266442817.png",
+            "mediumThumb": "https://images.clicktripz.com/1_15348693559815.png",
+            "smallAltThumb": "https://images.clicktripz.com/1_1533680401356.png",
+            "checked": false,
+            "hidden": false,
+            "id": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_4",
+            "redirectID": "5040483197",
+            "windowName": "ct_window_5071",
+            "campaignID": "1d9488e1-76e1-4d4c-b0a5-8143b92c6b63_desktop_popunder_provider_4_5071",
+            "campaign": "5071",
+            "campaignType": "1",
+            "ifb": false
+        }
+    ],
+    "strategy": {
+        "publisherId": 3167,
+        "auction_id": "c2ad3b56-b5fa-47b8-9b42-0ee459e9155e",
+        "creative_strategy_id": 11,
+        "search_display_type": 2,
+        "searchParams": {
+            "type": 1,
+            "city": "Wayanad, Kerala, India",
+            "checkInDate": "04/10/2022",
+            "checkOutDate": "04/11/2022",
+            "guests": 1,
+            "rooms": 1
+        }
+    }
+})

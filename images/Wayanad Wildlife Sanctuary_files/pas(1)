@@ -1,0 +1,43 @@
+jsonp_callback_2({
+    "id": "74738636-4320-4a1a-8258-c6a95db26a9b_desktop_interstitial_default_checkbox",
+    "redirectBaseID": "74738636-4320-4a1a-8258-c6a95db26a9b_desktop_interstitial_redirect_base",
+    "redirectBase": "https://www.clicktripz.com/",
+    "userSearchHistory": [],
+    "isPseudoPopUnderRedirecting": false,
+    "isEdgeBroken": false,
+    "serverTimestamp": 1649054188,
+    "searchKey": "2ce6296439e789e6b505336473a8f13f",
+    "recommendedDisplayMode": "tabbed",
+    "auctionType": 100,
+    "providers": [
+        {
+            "name": "Priceline",
+            "smallThumb": "https://images.clicktripz.com/4_16263982793112.png",
+            "mediumThumb": "https://images.clicktripz.com/4_16263983134335.png",
+            "smallAltThumb": "https://images.clicktripz.com/4_16263983004586.png",
+            "checked": true,
+            "hidden": false,
+            "id": "74738636-4320-4a1a-8258-c6a95db26a9b_desktop_interstitial_provider_1",
+            "redirectID": "8000974091",
+            "windowName": "ct_window_25645",
+            "campaignID": "74738636-4320-4a1a-8258-c6a95db26a9b_desktop_interstitial_provider_1_25645",
+            "campaign": "25645",
+            "campaignType": "1",
+            "ifb": false
+        }
+    ],
+    "strategy": {
+        "publisherId": 3386,
+        "auction_id": "3c4e1224-7662-40c1-ab1e-07f2f5f8da25",
+        "creative_strategy_id": 10,
+        "search_display_type": 1,
+        "searchParams": {
+            "type": 1,
+            "city": "Wayanad, Kerala, India",
+            "checkInDate": "04/10/2022",
+            "checkOutDate": "04/11/2022",
+            "guests": 1,
+            "rooms": 1
+        }
+    }
+})

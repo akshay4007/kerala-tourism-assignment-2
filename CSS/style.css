@@ -1,0 +1,134 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    text-align: center;
+    padding-top: 50px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+
+  footer{
+      background-color: black;
+      color: white;
+  }
+
+  footer h3{
+      text-align: center;
+  }
+
+  .center{
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 400px;
+      border-radius: 10px;
+      
+  }
+
+  /* .center form{
+      padding: 0  40px;
+      box-sizing: border-box;
+  } */
+
+  form .txt{
+      position: relative;
+      /* border-bottom: 2px solid #adadad; */
+      margin: 30px 0;
+  }
+
+  .txt input{
+      width: 100%;
+      padding: 0 5px;
+      height: 40px;
+      font-size: 16px;
+
+  }
+
+  /* .txt label{
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      color: #adadad;
+      transform: translateY(-50%);
+      font-size: 16px;
+      pointer-events: none;
+  }
+   */
+   .signup_link{
+       margin: 30px 0;
+       text-align: center;
+       font-size: 16;
+   }
+
+   input[type="submit"]{
+       width: 100%;
+       height: 80px;
+       font-size: 18px;
+       border-radius: 25px;
+       font-weight: 700;
+
+   }
+
+   input[type="submit"]:hover{
+       border-color: rgb(14, 13, 13);
+       transition: .5s;
+   }
+
+   /* signup */
+
+   .sign{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    border-radius: 10px;
+   }
+    
+   form .txt_link{
+    position: relative;
+    /* border-bottom: 2px solid #adadad; */
+    margin: 30px 0;
+   }
+
+   .txt_link input{
+    width: 100%;
+    padding: 0 5px;
+    height: 40px;
+    font-size: 16px;
+   }
+
+   /* kannur */
+
+   #top {
+       text-align: center;
+   }
+   
+   /* .kan img{
+       float: left;
+   } */
+
+   .kannurcard{
+
+        
+         width: 70%;
+         margin: auto;
+         
+
+   }
+
+   #kann{
+       font-size: 120%;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+   }
+   
+   
